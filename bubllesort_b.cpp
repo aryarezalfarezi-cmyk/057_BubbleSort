@@ -12,7 +12,7 @@ void input()
         cout << "Masukkan banyaknya elemen pada array: "; // Output ke layar
         cin >> n;                                         // Input dari pengguna
         if (n <= 20)                                      // Jika n kurang dari atau sama dengan 20, maka keluar dari loop
-            break;                                        // Keluar dari loop
+            break;                                        
         else
         {                                                           // Jika n lebih dari 20, maka tampilkan pesan error dan minta input ulang
             cout << "\nArray dapat memiliki maksimal 20 elemen.\n"; // Output ke layar jika n lebih dari 20
