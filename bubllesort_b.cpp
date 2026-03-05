@@ -77,7 +77,7 @@ void display()
     cout << endl;
     cout << endl;
 
-    cout << "Jumlah Pass = " << n - 1 << endl; // Menampilkan jumlah pass yang dibutuhkan untuk mengurutkan array
+    cout << "Jumlah Pass = " << n - 1 << endl; 
     cout << endl;
     cout << endl;
 }
